@@ -41,7 +41,8 @@ phishing-social-engineering-defense-hub/
 ├── 📖 resources/                 # Additional learning materials
 ├── 📈 data-visualizations/       # Charts, graphs, and infographics
 └── ⚡ quick-reference/           # Fast lookup guides and checklists
-``
+```
+
 
 ## 🎯 Attack Methods Covered
 
