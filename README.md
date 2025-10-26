@@ -41,39 +41,7 @@ phishing-social-engineering-defense-hub/
 ├── 📖 resources/                 # Additional learning materials
 ├── 📈 data-visualizations/       # Charts, graphs, and infographics
 └── ⚡ quick-reference/           # Fast lookup guides and checklists
-```
-
-## 🔥 Featured Content
-
-### 📊 Latest Research Reports
-- **[2025 Phishing Trends Report](reports/2025-phishing-trends-comprehensive-analysis.md)** - 50M+ email analysis
-- **[Social Engineering Statistics Deep Dive](reports/social-engineering-statistics-2025.md)** - Human vulnerability data
-- **[AI-Enhanced Phishing Analysis](reports/ai-powered-phishing-attacks-2025.md)** - 42% higher success rates
-- **[BEC Attack Patterns](reports/business-email-compromise-analysis.md)** - $2.77B in losses analyzed
-
-### 🎓 Interactive Training Materials
-- **[Phishing Detection Masterclass](training-materials/phishing-detection-masterclass.md)**
-- **[Social Engineering Psychology Guide](training-materials/social-engineering-psychology.md)**
-- **[Voice Phishing (Vishing) Defense](training-materials/vishing-defense-training.md)**
-- **[QR Code Phishing (Quishing) Protection](training-materials/quishing-protection-guide.md)**
-
-### 🛠️ Tools & Resources
-- **[Phishing Simulation Toolkit](tools/phishing-simulation-toolkit/)**
-- **[Email Header Analysis Tool](tools/email-header-analyzer.md)**
-- **[URL Analysis and Safety Checker](tools/url-safety-analyzer.md)**
-- **[Social Engineering Red Flags Checklist](tools/red-flags-checklist.md)**
-
-## 🚀 Quick Start
-
-### For Individuals
-1. Read our **[Personal Protection Guide](resources/personal-protection-guide.md)**
-2. Take the **[Phishing Awareness Assessment](training-materials/personal-assessment.md)**
-3. Download our **[Essential Security Checklist](resources/essential-security-checklist.md)**
-
-### For Organizations
-1. Review the **[Enterprise Implementation Guide](resources/enterprise-implementation-guide.md)**
-2. Deploy our **[Employee Training Program](training-materials/enterprise-training-curriculum.md)**
-3. Set up **[Incident Response Procedures](resources/incident-response-procedures.md)**
+``
 
 ## 🎯 Attack Methods Covered
 
